@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Scientific Publications"
+title: "Scientific Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 <i> International Journals </i>
 ======
