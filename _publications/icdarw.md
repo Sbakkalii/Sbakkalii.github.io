@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-International Journals
+<i> International Journals </i>
 ======
 [J1] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
 
