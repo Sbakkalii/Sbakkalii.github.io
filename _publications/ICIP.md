@@ -1,7 +1,7 @@
 ---
 title: "Cross-modal deep networks for document image classification"
 collection: publications
-permalink: /publication/PR1
+permalink: /publication/ICIP
 date: 2020
 venue: 'Pattern Recognition'
 paperurl: 'https://www.researchgate.net/profile/Zuheng-Ming/publication/345998752_Cross-Modal_Deep_Networks_For_Document_Image_Classification/links/62c6f92b00d0b451103de6c1/Cross-Modal-Deep-Networks-For-Document-Image-Classification.pdf'
