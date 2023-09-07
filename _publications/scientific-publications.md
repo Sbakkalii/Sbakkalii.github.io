@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Scientific Publications"
-permalink: /publications/scientific-publications
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
