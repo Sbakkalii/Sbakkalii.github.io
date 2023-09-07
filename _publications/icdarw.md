@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Scientific Publications"
+#title: "Scientific Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
