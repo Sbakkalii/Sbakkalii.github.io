@@ -13,15 +13,15 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <i> International Journals </i>
 ======
 
-[J1] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
+[J1] Bakkali, S., Biswas, S., Ming, Z., Coustaty, M., Rusiñol, M., Terrades, O. R., & Lladós, J. Transferdoc: A Self-Supervised Transferable Document Representation Learning Model Unifying Vision and Language. Available at SSRN 4545314. **(SJR rang Q1, IF 8.518)**
 
-[J2] Bakkali, S., Ming, Z., Coustaty, M., Rusiñol, M., & Terrades, O. R. (2023). VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification. Pattern Recognition, 139, 109419. (SJR rang Q1, IF 8.518)
+[J2] Bakkali, S., Ming, Z., Coustaty, M., Rusiñol, M., & Terrades, O. R. (2023). VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification. Pattern Recognition, 139, 109419. **(SJR rang Q1, IF 8.518)**
 
-[J3] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2021). EAML: ensemble self-attention-based mutual learning network for document image classification. International Journal on Document Analysis and Recognition (IJDAR), 24(3), 251-268. (SJR rang Q1, IF 3.870)
+[J3] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2021). EAML: ensemble self-attention-based mutual learning network for document image classification. International Journal on Document Analysis and Recognition (IJDAR), 24(3), 251-268. **(SJR rang Q1, IF 3.870)**
 
 International Conferences
 ======
-[C1] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
+[C1] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. **(Core rang B)**
 
 International Workshops
 ======
