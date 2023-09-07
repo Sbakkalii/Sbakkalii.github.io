@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Hello There, I'm Souhail !"
+title: "Hello There, I'm Souhail !"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
