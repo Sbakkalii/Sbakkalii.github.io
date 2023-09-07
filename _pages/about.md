@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 My Background
-======
+------
 I received my Ph.D. degree in 2022 in computer science, in the filed of computer vision (CV) and Natural Language Processing (NLP) from [La Rochelle Université](https://www.univ-larochelle.fr/), La Rochelle, France. My [thesis](https://theses.hal.science/tel-04197696v1/document) was based on the proposal of several Multimodal Document Understanding frameworks Unifying Vision and Language input modalities in a cross-modal learning fashion.  Before, I obtained M.Eng in Information Technology from the [INPT](http://www.inpt.ac.ma/) High School of Engineering in Morocco.
 
 
 I’m Souhail Bakkali, a assistant professor (Enseignant Chercheur) of computer science with L3i in La Rochelle Université. Before, I was a post-doctoral researcher in the computer science department with L3i at La Rochelle Université. I obtained my Ph.D. degree from the L3i-lab of La Rochelle Université under the supervision of Mickael Coustaty (MCF). Prior to coming to France, I obtained M.Eng in Information Technology from the INPT High School of Engineering in Morocco.
 
 Research Interests
-======
+------
 My main research interests include multimodal document analysis, self-supervised vision-language representation learning for document understanding.
 
 
 Getting started
-======
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
