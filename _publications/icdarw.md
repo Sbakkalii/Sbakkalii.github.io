@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "publications"
+title: "Scientific Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+** [International Journals] **
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[J1] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
+
+[J2] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
+
+[J3] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
+
+** [International Conferences] **
+======
+[C1] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
+
+** [International Workshops] **
+======
+[W1] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
+
+[W2] Bakkali, S., Ming, Z., Coustaty, M., & Rusiñol, M. (2020, October). Cross-modal deep networks for document image classification. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 2556-2560). IEEE. (** Core rang B **)
 
 Work experience
 ======
