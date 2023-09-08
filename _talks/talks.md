@@ -25,7 +25,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 1. Multimodal Document Understanding with Unified Vision and Language Cross-Modal Learning, L3i, La Rochelle Université, La Rochelle, France, 2022. Ph.D. Thèse.
 1. Improving Semantic Multimodal Document Representation Learning, L3i, La Rochelle Université, La Rochelle, France, 2022.
 1. Multimodal Document Understanding, Computer Vision Center (CVC), Barcelone, Espagne.
-1. ICDAR 2021 | 16th Internal Conference on Document Analysis and Recognition (ICDAR-IJDAR), Lausanne, Swisse. (Présentation Orale)
+1. ICDAR 2021 - 16th Internal Conference on Document Analysis and Recognition (ICDAR-IJDAR), Lausanne, Swisse. (Présentation Orale)
 1. ICIP 2020 – 27th IEEE International Conference on Image Processing, conférence virtuelle. (Présentation Orale)
 1. CVPR 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition conférence virtuelle. (Présentation Orale)
 
@@ -33,7 +33,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Depuis 2021, je suis activement reviewer pour Neurocomputing et aussi reviewer pour ICDAR2023 :
 
-1. ICDAR 2023
+1. ICDAR 2023 Reviewer
 1. SN Computer Science (2023) Springer Nature
 1. SN Computer Science (2022) Springer Nature
 1. SN Computer Science (2021) Springer Nature
