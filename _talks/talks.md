@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=gO_Q48IAAAAJ&hl=fr">my Google Scholar profile</a>.</u>
+Collaborations, responsabilités collectives et administratives :
 
 ## <i> **Symposium & Colloques** </i>
 
@@ -17,7 +16,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 1. Participation au colloque des doctorants des 2ème année (2022).
 1. Symposium International Francophone sur l’Ecrit et le Document (INNOV & SIFED 2021).
 1. Ecole d’été EU-CONEXUS : Professional and Scientific Communication and Networking in Multidisciplinary Environment. Université de Zadar, Croatia, 2021.
-1. Symposium International Francophone sur l’Ecrit et le Document (SIFED 2020) :
+1. Symposium International Francophone sur l’Ecrit et le Document (SIFED 2020) :              
 1. Présentation Orale : Cross-Modal Document Image Classification.
 
 ## <i> **Séminaires et présentations** </i>
