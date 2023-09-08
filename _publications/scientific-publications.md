@@ -1,4 +1,4 @@
----
+"""---
 layout: archive
 title: "Scientific Publications"
 permalink: /publications/
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+"""
 {% include base_path %}
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=gO_Q48IAAAAJ&hl=fr">my Google Scholar profile</a>.</u>
 
