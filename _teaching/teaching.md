@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Scientific Publications"
-permalink: /publications/
+title: "Teaching Experience"
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
