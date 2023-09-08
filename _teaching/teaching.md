@@ -14,13 +14,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Tables
 
-| Période    | Signalétique E.C | Intitulé de l'Enseignement                       |  Niveau d'enseignement                       |  Type d'Enseignement   |   Durée   |
-| --------   | ---------------- | --------------------------                       |  ---------------------                       |  --------------------- |  -------  |
-| 2022/2023  | FDSPM            | Technologies de Lutte contre le cybercriminalité |  M2 - Tiers confiance et sécurité numérique  |  TD                    |  4.5      |
-| --------  | ---------------- | -------------------------- |  ---------------------  |  --------------------- |  -------  |
-| --------  | ---------------- | -------------------------- |  ---------------------  |  --------------------- |  -------  |
-| --------  | ---------------- | -------------------------- |  ---------------------  |  --------------------- |  -------  |
-| --------  | ---------------- | -------------------------- |  ---------------------  |  --------------------- |  -------  |
+| Période    | Signalétique E.C | Intitulé de l'Enseignement                          |  Niveau d'enseignement                            |  Type d'Enseignement   |   Durée   |
+| --------   | ---------------- | --------------------------                          |  ---------------------                            |  --------------------- |  -------  |
+| 2022/2023  | FDSPM            | Technologies de Lutte contre le cybercriminalité    |  M2 - Tiers confiance et sécurité numérique       |  TD                    |  4.5      |
+|            | ---------------- | --------------------------------------------------- |  -------------------------------------------      |  ------------------    |  -------  |
+|            | ILUDI            | Mise en œuvre des systèmes big data – Niort         |  M2 - Informatique (parcours Architecte logiciel) |  CM                    |  1.5      |
+|            |                  |                                                     |                                                   |  TP                    |   3       |
+|            | ILUDI            | --------------------------------------------------- |  -----------------------------------------------  |  ------------------    |  -------  |
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
