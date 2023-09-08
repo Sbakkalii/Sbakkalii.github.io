@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/CV.pdf
     
-  - title: "Guide"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
