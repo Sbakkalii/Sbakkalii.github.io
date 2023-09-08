@@ -12,7 +12,7 @@ Collaborations, responsabilités collectives et administratives :
 ## <i> **Symposium & Colloques** </i>
 
 1. Symposium International Francophone sur l’Ecrit et le Document ([SIFED 2022](https://project.inria.fr/sifed2022/fr/)) :
-  1. Présentation Orale : Multimodal Document Understanding for Cross-Modal Document Image Classification.
+  * Présentation Orale : Multimodal Document Understanding for Cross-Modal Document Image Classification.
 1. Participation au colloque des doctorants des 2ème année (2022).
 1. Symposium International Francophone sur l’Ecrit et le Document (INNOV & SIFED 2021).
 1. Ecole d’été EU-CONEXUS : Professional and Scientific Communication and Networking in Multidisciplinary Environment. Université de Zadar, Croatia, 2021.
