@@ -8,9 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
+## <i> **Activités de Recherche** </i>
+
+Mes travaux de recherche ont été réalisés au sein du laboratoire L3i (dans l’équipe IC), du département informatique de La Rochelle Université entre décembre 2019 et décembre 2022. Mes travaux s’intègrent principalement dans le domaine de l’analyse et la compréhension des documents administratifs. Ces documents peuvent être des documents papier et/ou numériques produites par les grandes institutions publiques ou privées, intégrant différents types de contenus très hétérogènes (structurées et non-structurées). En effet, ces contenus se présentent souvent sous diverses formes, sous forme de graphiques dans des rapports techniques, de diagrammes dans des articles scientifiques et de conceptions graphiques dans des bulletins. Afin de prendre des décisions sur des sujets d'intérêt tels que la science, l’industrie, la santé, etc., l’être humain peut traiter efficacement les informations visuelles et textuelles contenues dans ces documents. Toutefois, comprendre et analyser manuellement de grandes quantités de données à partir de documents prend généralement du temps et coûte cher. 
+
+En général, les données de document sont souvent présentées dans des mises en page (layout) complexes en raison des différentes manières d'organiser chaque document. Contrairement aux images générales de scènes naturelles, les documents sont très difficiles compte tenu de leurs propriétés structurelles visuelles et de leur contenu textuel hétérogène. Dans ces conditions, le développement d'outils informatiques capables de comprendre et d'extraire automatiquement des informations structurées précises à partir d'une grande variété de documents reste crucial, d'une manière qui conduit à effectuer d'importantes applications administratives et/ou commerciales. 
+
+Il existe aujourd'hui plusieurs applications utilisées pour comprendre automatiquement les données des documents administratifs et commerciaux telles que : la classification des documents, la récupération de documents basée sur le contenu et la classification de documents à quelques exemples. Par conséquent, la clé de la compréhension automatisée des documents réside dans l'intégration efficace des signaux provenant de plusieurs modalités de données. Étant donné que les documents sont nativement multimodaux, il est important de tirer parti des informations multi-modales du langage et de la vision. Contrairement à d'autres formats de données tels que les images ou leur texte brut extrait à partir d’une reconnaissance optique de caractères (OCR), les documents combinent des informations visuelles et linguistiques, complétées par la mise en page du document. En outre, d'un point de vue pratique, de nombreuses tâches liées à la compréhension des documents sont rares. Un modèle qui peut apprendre à partir de documents non étiquetés (c.-à-d. un pré-entraînement), effectuer un ajustement du modèle pour des applications de documents spécifiques est plus préféré que celui qui nécessite des données d’entraînement entièrement annotées (c.-à-d. entraînés dans un mode d'apprentissage entièrement supervisé).
+
+Le propre de mes travaux de recherche actuelle s'inscrit dans le cadre de la compréhension et l’analyse des images de documents administratifs (courriels, factures, publicités, articles, rapports, etc.), qui a été largement adoptée dans diverses applications de traitement d'images de documents. Mes travaux de recherche se concentrent principalement sur les interactions inter-modales entre les informations visuelles et textuelles dans les images de documents, visant la conception d'un environnement d'apprentissage efficace. En effet, le processus de conception de tels systèmes implique l'étude des avantages des interactions inter-modales dans l'apprentissage multi-modal. De tels systèmes encouragent l'apprentissage inter-modal entre les caractéristiques visuelles et textuelles des modalités visuelles et langagières afin d'améliorer leur distribution dans l'espace de représentation commun. Encore, les modèles développés sont le résultat d'un processus itératif d'analyse et de synthèse entre les théories existantes et nos études réalisées. Le propre de ma recherche actuelle part alors du fait d’étudier l'apprentissage inter-modal pour la compréhension contextualisée sur les composantes du document à travers le langage et la vision. L'idée principale est de tirer parti des informations multi-modales des images de documents dans un espace sémantique commun. Le principe consiste à extraire automatiquement des informations du contenu présenté dans les systèmes d'information (scan des documents, informations structurées et non structurées). Ensuite, comprendre les interactions entre données visuelles et textuelles, réorganiser 
+
+## <i> **Rayonnement scientifique** </i>
+
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=gO_Q48IAAAAJ&hl=fr">my Google Scholar profile</a>.</u>
 
-## <i> **International Journals** </i>
+### <i> **International Journals** </i>
 
 [J1] **Bakkali, S.**, Biswas, S., Ming, Z., Coustaty, M., Rusiñol, M., Terrades, O. R., & Lladós, J. Transferdoc: A Self-Supervised Transferable Document Representation Learning Model Unifying Vision and Language. Available at SSRN 4545314. **(SJR rang Q1, IF 8.518)**
 
@@ -24,7 +36,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 [Access the paper here](https://arxiv.org/pdf/2305.06923.pdf)
 
-## <i> **International Conferences & Workshops** </i>
+#### <i> **International Conferences & Workshops** </i>
 
 [C1] **Bakkali, S.**, Ming, Z., Coustaty, M., & Rusiñol, M. (2020). Visual and textual deep feature fusion for document image classification. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops (pp. 562-563).
 
@@ -38,7 +50,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 [Access the paper here](https://arxiv.org/pdf/1911.03567.pdf)
 
-### <i> [**Thesis**] </i>
+#### <i> [**Thesis**] </i>
 
 **Bakkali, S.**. Multimodal Document Understanding with Unified Vision and Language Cross-Modal Learning. Laboratoire L3i de La Rochelle Université, Thesis, 2022.
 
