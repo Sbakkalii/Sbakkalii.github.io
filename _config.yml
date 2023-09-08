@@ -84,7 +84,7 @@ author:
   avatar           : "photo.png"
   bio              : "Assistant Professor"
   location         : "La Rochelle, France"
-  employer         : "L3i, La Rochelle Université"
+  #employer         : "L3i, La Rochelle Université"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gO_Q48IAAAAJ&hl=fr"
   email            :  "souhail.bakkali@univ-lr.fr"
