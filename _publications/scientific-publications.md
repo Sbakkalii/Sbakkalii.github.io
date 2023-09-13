@@ -25,7 +25,7 @@ Overall, my research project focuses on advancing inter-modal learning research 
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=gO_Q48IAAAAJ&hl=fr">my Google Scholar profile</a>.</u>
 
-### <i> **International Journals** </i>
+### <i> [**International Journals**] </i>
 
 [J1] **Bakkali, S.**, Biswas, S., Ming, Z., Coustaty, M., Rusiñol, M., Terrades, O. R., & Lladós, J. Transferdoc: A Self-Supervised Transferable Document Representation Learning Model Unifying Vision and Language. Available at SSRN 4545314. **(SJR rang Q1, IF 8.518)**
 
@@ -39,7 +39,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 [Access the paper here](https://arxiv.org/pdf/2305.06923.pdf)
 
-### <i> **International Conferences & Workshops** </i>
+### <i> [**International Conferences & Workshops**] </i>
 
 [C1] **Bakkali, S.**, Ming, Z., Coustaty, M., & Rusiñol, M. (2020). Visual and textual deep feature fusion for document image classification. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops (pp. 562-563).
 
