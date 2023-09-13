@@ -29,7 +29,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 [J1] **Bakkali, S.**, Biswas, S., Ming, Z., Coustaty, M., Rusiñol, M., Terrades, O. R., & Lladós, J. Transferdoc: A Self-Supervised Transferable Document Representation Learning Model Unifying Vision and Language. Available at SSRN 4545314. **(SJR rang Q1, IF 8.518)**
 
-[Access the paper here](https://arxiv.org/abs/2309.05756)
+[Access the paper here](https://arxiv.org/pdf/2309.05756.pdf)
 
 [J2] **Bakkali, S.**, Ming, Z., Coustaty, M., Rusiñol, M., & Terrades, O. R. (2023). VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification. Pattern Recognition, 139, 109419. **(SJR rang Q1, IF 8.518)**
 
