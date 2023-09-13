@@ -37,7 +37,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 [J3] **Bakkali, S.**, Ming, Z., Coustaty, M., & Rusiñol, M. (2021). EAML: ensemble self-attention-based mutual learning network for document image classification. International Journal on Document Analysis and Recognition (IJDAR), 24(3), 251-268. **(SJR rang Q1, IF 3.870)**
 
-[Access the paper here](https://arxiv.org/pdf/2305.06923.pdf)
+[Access the paper here](https://link.springer.com/content/pdf/10.1007/s10032-021-00378-0.pdf?pdf=button)
 
 ### <i> [**International Conferences & Workshops**] </i>
 
