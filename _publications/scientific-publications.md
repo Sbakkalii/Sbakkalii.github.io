@@ -25,11 +25,11 @@ Overall, my research project focuses on advancing inter-modal learning research 
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=gO_Q48IAAAAJ&hl=fr">my Google Scholar profile</a>.</u>
 
-### <i> [**International Journals**] </i>
+### <i> [**International Journals**]   </i>
 
 [J1] **Bakkali, S.**, Biswas, S., Ming, Z., Coustaty, M., Rusiñol, M., Terrades, O. R., & Lladós, J. Transferdoc: A Self-Supervised Transferable Document Representation Learning Model Unifying Vision and Language. Available at SSRN 4545314. **(SJR rang Q1, IF 8.518)**
 
-[Access the paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545314)
+[Access the paper here](https://arxiv.org/abs/2309.05756)
 
 [J2] **Bakkali, S.**, Ming, Z., Coustaty, M., Rusiñol, M., & Terrades, O. R. (2023). VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification. Pattern Recognition, 139, 109419. **(SJR rang Q1, IF 8.518)**
 
