@@ -21,7 +21,7 @@ More Info
 ------
 Souhail Bakkali (Ph.D.)
 
-Enseignant Chercheur Contractuel | Assistant Professor
+Enseignant Chercheur Contractuel / Assistant Professor
 
 Laboratoire L3i, La Rochelle Université
 
