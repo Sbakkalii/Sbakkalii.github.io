@@ -17,6 +17,15 @@ Research Interests
 ------
 My main research interests include multimodal document analysis, self-supervised vision-language representation learning for document understanding.
 
-For more info
+More Info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Souhail Bakkali (Ph.D.)
+
+Enseignant Chercheur Contractuel | Assistant Professor
+
+Laboratoire L3i, La Rochelle Université
+
+Av. Michel Crépeau, 17042 La Rochelle, France
+
+  * E-mail: souhail.bakkali [at] univ-lr.fr
+  * Google Scholar: author:Souhail Bakkali
